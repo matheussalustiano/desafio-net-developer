@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36203.30 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDesenvolvimento", "TesteDesenvolvimento\TesteDesenvolvimento.csproj", "{0EDE0B08-DD0C-476F-B05B-0900620965E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio-net-developer", "desafio-net-developer\desafio-net-developer.csproj", "{0EDE0B08-DD0C-476F-B05B-0900620965E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
