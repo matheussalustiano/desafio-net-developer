@@ -1,4 +1,4 @@
-﻿namespace TesteDesenvolvimento
+﻿namespace Desafio
 {
     public class Produto
     {
