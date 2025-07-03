@@ -63,5 +63,3 @@ Você **não precisa se preocupar com banco de dados, Entity Framework ou API** 
 
 ## Boa sorte! 💻  
 Estamos aqui para te conhecer como desenvolvedor e como pessoa que resolve problemas com clareza. Capriche!
-
-teste
